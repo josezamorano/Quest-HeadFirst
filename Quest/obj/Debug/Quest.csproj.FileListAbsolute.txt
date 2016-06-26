@@ -1,0 +1,139 @@
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest\Quest\bin\Debug\Quest.exe.config
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest\Quest\bin\Debug\Quest.exe
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest\Quest\bin\Debug\Quest.pdb
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest\Quest\obj\Debug\Quest.exe
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest\Quest\obj\Debug\Quest.pdb
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest\Quest\obj\Debug\Quest.Form1.resources
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v002\Quest\bin\Debug\Quest.exe.config
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v002\Quest\bin\Debug\Quest.exe
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v002\Quest\bin\Debug\Quest.pdb
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v002\Quest\obj\Debug\Quest.Form1.resources
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v002\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v002\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v002\Quest\obj\Debug\Quest.exe
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v002\Quest\obj\Debug\Quest.pdb
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v002\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v003\Quest\bin\Debug\Quest.exe.config
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v003\Quest\bin\Debug\Quest.exe
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v003\Quest\bin\Debug\Quest.pdb
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v003\Quest\obj\Debug\Quest.Form1.resources
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v003\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v003\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v003\Quest\obj\Debug\Quest.exe
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v003\Quest\obj\Debug\Quest.pdb
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v003\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v004\Quest\bin\Debug\Quest.exe.config
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v004\Quest\bin\Debug\Quest.exe
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v004\Quest\bin\Debug\Quest.pdb
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v004\Quest\obj\Debug\Quest.Form1.resources
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v004\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v004\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v004\Quest\obj\Debug\Quest.exe
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v004\Quest\obj\Debug\Quest.pdb
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v004\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005 CleanKeyboardKeys\Quest\obj\Debug\Quest.Form1.resources
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005 CleanKeyboardKeys\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005 CleanKeyboardKeys\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005 CleanKeyboardKeys\Quest\bin\Debug\Quest.exe.config
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005 CleanKeyboardKeys\Quest\bin\Debug\Quest.exe
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005 CleanKeyboardKeys\Quest\bin\Debug\Quest.pdb
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005 CleanKeyboardKeys\Quest\obj\Debug\Quest.exe
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005 CleanKeyboardKeys\Quest\obj\Debug\Quest.pdb
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005 CleanKeyboardKeys\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005\Quest\bin\Debug\Quest.exe.config
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005\Quest\bin\Debug\Quest.exe
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005\Quest\bin\Debug\Quest.pdb
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005\Quest\obj\Debug\Quest.Form1.resources
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005\Quest\obj\Debug\Quest.exe
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005\Quest\obj\Debug\Quest.pdb
+C:\Users\josewin\Desktop\C sharp HeadFirst Training\Quest-v005\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+\\Mac\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v005\Quest\obj\Debug\Quest.Form1.resources
+\\Mac\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v005\Quest\obj\Debug\Quest.Properties.Resources.resources
+\\Mac\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v005\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v005\Quest\bin\Debug\Quest.exe.config
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v005\Quest\bin\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v005\Quest\bin\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v005\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v005\Quest\obj\Debug\Quest.Form1.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v005\Quest\obj\Debug\Quest.Properties.Resources.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v005\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v005\Quest\obj\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v005\Quest\obj\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v006 Weapons\Quest\bin\Debug\Quest.exe.config
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v006 Weapons\Quest\bin\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v006 Weapons\Quest\bin\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v006 Weapons\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v006 Weapons\Quest\obj\Debug\Quest.Form1.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v006 Weapons\Quest\obj\Debug\Quest.Properties.Resources.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v006 Weapons\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v006 Weapons\Quest\obj\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v006 Weapons\Quest\obj\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v007 Weapons2\Quest\bin\Debug\Quest.exe.config
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v007 Weapons2\Quest\bin\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v007 Weapons2\Quest\bin\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v007 Weapons2\Quest\obj\Debug\Quest.Form1.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v007 Weapons2\Quest\obj\Debug\Quest.Properties.Resources.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v007 Weapons2\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v007 Weapons2\Quest\obj\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v007 Weapons2\Quest\obj\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v010 Weapons3\Quest\bin\Debug\Quest.exe.config
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v010 Weapons3\Quest\obj\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v010 Weapons3\Quest\obj\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v010 Weapons3\Quest\bin\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v010 Weapons3\Quest\bin\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v010 Weapons3\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v010 Weapons3\Quest\obj\Debug\Quest.Form1.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v010 Weapons3\Quest\obj\Debug\Quest.Properties.Resources.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v010 Weapons3\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v011 Weapons4\Quest\bin\Debug\Quest.exe.config
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v011 Weapons4\Quest\bin\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v011 Weapons4\Quest\bin\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v011 Weapons4\Quest\obj\Debug\Quest.Form1.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v011 Weapons4\Quest\obj\Debug\Quest.Properties.Resources.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v011 Weapons4\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v011 Weapons4\Quest\obj\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v011 Weapons4\Quest\obj\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\Quest-v011 Weapons4\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v012 AllLevels\Quest\bin\Debug\Quest.exe.config
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v012 AllLevels\Quest\bin\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v012 AllLevels\Quest\bin\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v012 AllLevels\Quest\obj\Debug\Quest.Form1.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v012 AllLevels\Quest\obj\Debug\Quest.Properties.Resources.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v012 AllLevels\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v012 AllLevels\Quest\obj\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v012 AllLevels\Quest\obj\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v012 AllLevels\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v013 Fireballs\Quest\bin\Debug\Quest.exe.config
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v013 Fireballs\Quest\bin\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v013 Fireballs\Quest\bin\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v013 Fireballs\Quest\obj\Debug\Quest.Form1.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v013 Fireballs\Quest\obj\Debug\Quest.Properties.Resources.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v013 Fireballs\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v013 Fireballs\Quest\obj\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v013 Fireballs\Quest\obj\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v014 FinalClean\Quest\bin\Debug\Quest.exe.config
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v014 FinalClean\Quest\obj\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v014 FinalClean\Quest\obj\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v014 FinalClean\Quest\bin\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v014 FinalClean\Quest\bin\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v014 FinalClean\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v014 FinalClean\Quest\obj\Debug\Quest.Form1.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v014 FinalClean\Quest\obj\Debug\Quest.Properties.Resources.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v014 FinalClean\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v015 Refactoring\Quest\bin\Debug\Quest.exe.config
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v015 Refactoring\Quest\obj\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v015 Refactoring\Quest\obj\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v015 Refactoring\Quest\bin\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v015 Refactoring\Quest\bin\Debug\Quest.pdb
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v015 Refactoring\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v015 Refactoring\Quest\obj\Debug\Quest.Form1.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v015 Refactoring\Quest\obj\Debug\Quest.Properties.Resources.resources
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v015 Refactoring\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v016 FinalComplete\Quest\bin\Debug\Quest.exe.config
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v016 FinalComplete\Quest\obj\Debug\Quest.exe
+\\Mac\Home\Documents\_WindowsDocs\02-WebAndProg\_ProgBooks\C# HeadFirst\C sharp HeadFirst Training-2016.05.19\LAB2\Quest-v016 FinalComplete\Quest\obj\Debug\Quest.pdb
